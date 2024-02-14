@@ -4,4 +4,7 @@
   <br>
 <p>- HTML</p>
 <p>- CSS</p>
-<p>- JavaScript</p></h2>
+<p>- JavaScript</p>
+
+<img src="https://github.com/BarbaraGoncalves28/projeto-pizzaria/blob/main/img/pizza-print.png?raw=true"/>
+</h2>
